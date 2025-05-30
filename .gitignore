@@ -1,0 +1,5 @@
+hardware-configuration.nix
+result
+*.swp
+*.swo
+*~
