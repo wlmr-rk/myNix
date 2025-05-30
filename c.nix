@@ -28,8 +28,6 @@
   };
 
   services.displayManager.cosmic-greeter.enable = true;
-
-  # Enable programs needed for Wayland/Hyprland
   programs.hyprland.enable = true;
   programs.fish.enable = true;
 
